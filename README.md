@@ -42,7 +42,7 @@ Hey there! I'm **Abdurahman**, a passionate **Full-Stack Developer** who loves t
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abudi-09&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abudi-09&show_icons=true&theme=radical)  
+
 
 
 
